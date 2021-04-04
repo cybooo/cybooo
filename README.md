@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40033%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40379%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 68 Contributions in the Year 2021
+> 🏆 72 Contributions in the Year 2021
  > 
 > 📦 11.4 kB Used in Github's Storage 
  > 
@@ -44,13 +46,14 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-Java                     5 hrs 43 mins       ████████████████████████░   99.04% 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+Java                     10 hrs 45 mins      ████████████████████████░   97.23% 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24% 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-IntelliJ                 5 hrs 46 mins       █████████████████████████   100.0%
+IntelliJ                 11 hrs 3 mins       █████████████████████████   100.0%
 
 ```
 
@@ -61,6 +64,10 @@ Java                     13 repos            ███████████�
 
 ```
 
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/cybooo/cybooo/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
