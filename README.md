@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42400%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42855%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 82 Contributions in the Year 2021
+> 🏆 87 Contributions in the Year 2021
  > 
 > 📦 11.5 kB Used in Github's Storage 
  > 
@@ -60,7 +60,7 @@ IntelliJ                 8 hrs 38 mins       ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     13 repos            █████████████████████████   100.0%
+Java                     14 repos            █████████████████████████   100.0%
 
 ```
 
