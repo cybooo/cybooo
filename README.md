@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44777%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45881%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 95 Contributions in the Year 2021
+> 🏆 96 Contributions in the Year 2021
  > 
 > 📦 11.6 kB Used in Github's Storage 
  > 
@@ -46,13 +46,13 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-Java                     17 hrs 47 mins      ███████████████████████░░   95.3% 
-YAML                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.47% 
-XML                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1% 
+Java                     17 hrs 7 mins       ███████████████████████░░   95.32% 
+YAML                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46% 
+XML                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09% 
 Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🔥 Editors: 
-IntelliJ                 18 hrs 40 mins      █████████████████████████   100.0%
+IntelliJ                 17 hrs 57 mins      █████████████████████████   100.0%
 
 ```
 
