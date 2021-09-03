@@ -44,10 +44,10 @@ Sunday       46 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-HTML                     46 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 46 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -61,5 +61,5 @@ CSS                      2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 02/09/2021
+ Last Updated on 03/09/2021
 <!--END_SECTION:waka-->
