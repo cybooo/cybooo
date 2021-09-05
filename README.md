@@ -44,10 +44,11 @@ Sunday       46 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 34 mins        ██████████████████████░░░   90.8% 
+YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.2%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 43 mins        █████████████████████████   100.0%
 
 ```
 
@@ -61,5 +62,5 @@ CSS                      2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 04/09/2021
+ Last Updated on 05/09/2021
 <!--END_SECTION:waka-->
