@@ -1,8 +1,6 @@
 ### hey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-587%20hrs%208%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-92%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -46,12 +44,10 @@ Sunday       79 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-Java                     2 hrs 59 mins       ████████████████████████░   98.65% 
-Diff                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 3 hrs 2 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -65,5 +61,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/03/2022 10:45:54 UTC
+ Last Updated on 16/03/2022 02:07:32 UTC
 <!--END_SECTION:waka-->
