@@ -5,7 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 231 Contributions in the Year 2022
+> 🏆 232 Contributions in the Year 2022
  > 
 > 📦 377.2 kB Used in GitHub's Storage 
  > 
@@ -44,10 +44,13 @@ Sunday       79 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 40 mins        ███████████████████████░░   92.96% 
+AUTO_DETECTED            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 48 mins        █████████████████████████   100.0%
 
 ```
 
@@ -61,5 +64,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2022 02:03:29 UTC
+ Last Updated on 18/03/2022 02:06:19 UTC
 <!--END_SECTION:waka-->
