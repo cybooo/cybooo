@@ -1,17 +1,17 @@
 ### hey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-659%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 502 Contributions in the Year 2022
+> 🏆 504 Contributions in the Year 2022
  > 
 > 📦 376.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 18 Private Repositories  
  > 
@@ -44,13 +44,10 @@ Sunday       132 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-Java                     7 hrs 36 mins       ████████████████████████░   97.98% 
-GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22% 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56% 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+Java                     4 hrs 47 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-IntelliJ                 7 hrs 46 mins       █████████████████████████   100.0%
+IntelliJ                 4 hrs 47 mins       █████████████████████████   100.0%
 
 ```
 
@@ -64,5 +61,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2022 10:47:45 UTC
+ Last Updated on 14/05/2022 03:00:05 UTC
 <!--END_SECTION:waka-->
