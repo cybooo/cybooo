@@ -1,7 +1,7 @@
 ### hey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2026%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -63,5 +63,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2022 02:03:54 UTC
+ Last Updated on 21/05/2022 10:45:01 UTC
 <!--END_SECTION:waka-->
