@@ -1,19 +1,19 @@
 ### hey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2021%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 544 Contributions in the Year 2022
+> 🏆 471 Contributions in the Year 2022
  > 
 > 📦 376.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 20 Public Repositories 
  > 
-> 🔑 18 Private Repositories  
+> 🔑 19 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -65,5 +65,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2022 02:41:13 UTC
+ Last Updated on 17/06/2022 10:49:06 UTC
 <!--END_SECTION:waka-->
