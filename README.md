@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm cybo. I'm a self-taught Developer</h1>
+<h1 align="center">Hi 👋, I'm cybo.</h1>
+<h1 align="center">Self-taught Developer</h1>
 
-Maintainer of [Corgi](https://corgibot.xyz/)
-Developer at [QPlay](https://qplay.cz/)
+Maintainer of [Corgi](https://corgibot.xyz/)<br>
+Developer at [QPlay.cz](https://qplay.cz/)
 
 I'm currently learning: JS, PHP, CSS, Lua
 
