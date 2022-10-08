@@ -2,7 +2,7 @@
 <h1 align="center">Self-taught Developer</h1>
 
 Maintainer of [Corgi](https://corgibot.xyz/)<br>
-Developer at [QPlay.cz](https://qplay.cz/)
+Developer at [QPlay.cz](https://qplay.cz/)<br>
 Freelancer at Orbital Studios, Candor Services
 
 <h3 align="left">Languages and Tools i know:</h3>
